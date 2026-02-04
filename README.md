@@ -25,12 +25,12 @@ The app dynamically fetches Scripture passages from the **Biblia API (KJV)** and
 ---
 
 ## 🖼️ Screenshots
-![Main View](mainview.png)
+![Main View](screenshots/mainview.png)
 
 
 ```
 screenshots/
-├── main_view.png
+├── mainview.png
 ├── reading_progress.png
 └── navigation.png
 ```
