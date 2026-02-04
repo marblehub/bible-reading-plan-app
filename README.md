@@ -37,15 +37,15 @@ screenshots/
 
 ## 🚀 Getting Started/Installation
 ### Clone the repository
-- git clone https://github.com/your-username/bible-reading-app.git
-- cd bible-reading-app
+    - git clone https://github.com/your-username/bible-reading-app.git
+    - cd bible-reading-app
 
 ### Create a virtual environment
-python -m venv venv
-source venv/bin/activate
+    - python -m venv venv
+    - source venv/bin/activate
 
 ### Install dependencies
-pip install -r requirements.txt
+    - pip install -r requirements.txt
 
 
 ### 🔑 Biblia API Setup
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 - API_KEY = "your_api_key_here"
 
 ### ▶️ Run the Application
-python app.py (alternatively: python3 app.py)
+    - python app.py (alternatively: python3 app.py)
 
 The app will automatically:
 - Resume from the next unread day
