@@ -37,8 +37,8 @@ screenshots/
 
 ## 🚀 Getting Started/Installation
 ### Clone the repository
-git clone https://github.com/your-username/bible-reading-app.git
-cd bible-reading-app
+- git clone https://github.com/your-username/bible-reading-app.git
+- cd bible-reading-app
 
 ### Create a virtual environment
 python -m venv venv
