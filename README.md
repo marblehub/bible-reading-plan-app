@@ -113,3 +113,7 @@ Scripture content is retrieved via the Biblia API under their terms.
 ```
 “Man shall not live by bread alone, but by every word that proceeds from the mouth of God.” — Matthew 4:4
 ```
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for release history.
